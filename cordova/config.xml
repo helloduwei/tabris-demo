@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="example.mytabris" version="0.1.0">
+  <name>Mytabris</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="duwei@MacbookPro-XVI.local">
+    杜伟
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
